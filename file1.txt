@@ -1,2 +1,9 @@
 master branch
+<<<<<<< HEAD
 added line in b1
+=======
+on branch 2
+>>>>>>> b2
+
+
+Keeping both changes ---- edited on master
